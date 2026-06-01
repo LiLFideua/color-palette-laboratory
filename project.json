@@ -1,0 +1,7 @@
+﻿{
+  "name": "vibe-coding-09-color-palette-laboratory",
+  "title": "Color Palette Laboratory",
+  "description": "A palette generator from base colors and uploaded images.",
+  "type": "static-browser-app"
+}
+
