@@ -1,7 +1,23 @@
 ﻿{
-    "title":  "Color Palette Laboratory",
-    "description":  "A palette generator and extractor for base colors, uploaded images, previews, and CSS export.",
+    "entrypoints":  {
+                        "typescript":  "src/project-manifest.ts",
+                        "html":  "index.html",
+                        "javascript":  "assets/app.js",
+                        "css":  "assets/styles.css",
+                        "python":  "scripts/metadata_check.py"
+                    },
     "name":  "color-palette-laboratory",
-    "type":  "static-browser-app"
+    "description":  "A palette generator and extractor for base colors, uploaded images, previews, and CSS export.",
+    "type":  "static-browser-app",
+    "languages":  [
+                      "HTML",
+                      "CSS",
+                      "JavaScript",
+                      "TypeScript",
+                      "Python",
+                      "JSON",
+                      "Markdown"
+                  ],
+    "title":  "Color Palette Laboratory"
 }
 
